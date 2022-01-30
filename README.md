@@ -3,7 +3,7 @@
 Seperti pada business plan yang sudah di tetapkan oleh kelompok kami yaitu Jasa UI/UX E-learning kids. Dimana pada bisnis plan tersebut produk kami berupa UI/UX terkhusus E-learning kids dan produk tersebut kami tawarkan kepada para developer application yang ingin mengembangkan aplikasi E-learning namun terkendala dengan penentuan UI/UX pada aplikasi tersebut. UI/UX salah satu hal yang penting agar user tertarik dengan aplikasi yang telah dibuat dan merasa nyaman.
 # <h3>Features<br></h3>
 - Theme<br>
-Untuk tema UI/yang kami berikan kepada pihak developer application adalah tema “cloud”, makna dari tema “cloud” adalah app e-learning tersebut menyesuaikan dengan umur user. Target user dari pihak kami dan developer adalah anak-anak, maka dari itu kami mengambil tema “cloud” warna utama dari UI/UX adalah biru soft atau biru langit.< br>
+Untuk tema UI/yang kami berikan kepada pihak developer application adalah tema “cloud”, makna dari tema “cloud” adalah app e-learning tersebut menyesuaikan dengan umur user. Target user dari pihak kami dan developer adalah anak-anak, maka dari itu kami mengambil tema “cloud” warna utama dari UI/UX adalah biru soft atau biru langit.<br>
 - Fitur<br>
 Fitur yaitu berupa materi belajar utama seperti, “Number”, “Reading”, “Shape”, dan “Vocab & Latter”.<br>
 Selanjutnya terdapat fitur "search" dan "menu", fitur "search" berfungsi dalam melakukan pencarian materi belajar dan lain-lain, fitur "menu" berfungsi dalam proses edit profile atau akun.<br>
